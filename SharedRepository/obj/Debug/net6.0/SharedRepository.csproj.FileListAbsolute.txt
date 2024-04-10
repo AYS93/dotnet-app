@@ -1,0 +1,15 @@
+C:\Projects\WebApi\SharedRepository\bin\Debug\net6.0\SharedRepository.deps.json
+C:\Projects\WebApi\SharedRepository\bin\Debug\net6.0\SharedRepository.dll
+C:\Projects\WebApi\SharedRepository\bin\Debug\net6.0\SharedRepository.pdb
+C:\Projects\WebApi\SharedRepository\bin\Debug\net6.0\Shared.dll
+C:\Projects\WebApi\SharedRepository\bin\Debug\net6.0\Shared.pdb
+C:\Projects\WebApi\SharedRepository\obj\Debug\net6.0\SharedRepository.csproj.AssemblyReference.cache
+C:\Projects\WebApi\SharedRepository\obj\Debug\net6.0\SharedRepository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\WebApi\SharedRepository\obj\Debug\net6.0\SharedRepository.AssemblyInfoInputs.cache
+C:\Projects\WebApi\SharedRepository\obj\Debug\net6.0\SharedRepository.AssemblyInfo.cs
+C:\Projects\WebApi\SharedRepository\obj\Debug\net6.0\SharedRepository.csproj.CoreCompileInputs.cache
+C:\Projects\WebApi\SharedRepository\obj\Debug\net6.0\SharedRepository.csproj.CopyComplete
+C:\Projects\WebApi\SharedRepository\obj\Debug\net6.0\SharedRepository.dll
+C:\Projects\WebApi\SharedRepository\obj\Debug\net6.0\refint\SharedRepository.dll
+C:\Projects\WebApi\SharedRepository\obj\Debug\net6.0\SharedRepository.pdb
+C:\Projects\WebApi\SharedRepository\obj\Debug\net6.0\ref\SharedRepository.dll

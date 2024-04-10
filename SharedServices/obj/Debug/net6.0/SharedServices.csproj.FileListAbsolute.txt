@@ -1,0 +1,15 @@
+C:\Projects\WebApi\SharedServices\bin\Debug\net6.0\SharedServices.deps.json
+C:\Projects\WebApi\SharedServices\bin\Debug\net6.0\SharedServices.dll
+C:\Projects\WebApi\SharedServices\bin\Debug\net6.0\SharedServices.pdb
+C:\Projects\WebApi\SharedServices\obj\Debug\net6.0\SharedServices.csproj.AssemblyReference.cache
+C:\Projects\WebApi\SharedServices\obj\Debug\net6.0\SharedServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\WebApi\SharedServices\obj\Debug\net6.0\SharedServices.AssemblyInfoInputs.cache
+C:\Projects\WebApi\SharedServices\obj\Debug\net6.0\SharedServices.AssemblyInfo.cs
+C:\Projects\WebApi\SharedServices\obj\Debug\net6.0\SharedServices.csproj.CoreCompileInputs.cache
+C:\Projects\WebApi\SharedServices\obj\Debug\net6.0\SharedServices.dll
+C:\Projects\WebApi\SharedServices\obj\Debug\net6.0\refint\SharedServices.dll
+C:\Projects\WebApi\SharedServices\obj\Debug\net6.0\SharedServices.pdb
+C:\Projects\WebApi\SharedServices\obj\Debug\net6.0\ref\SharedServices.dll
+C:\Projects\WebApi\SharedServices\bin\Debug\net6.0\Shared.dll
+C:\Projects\WebApi\SharedServices\bin\Debug\net6.0\Shared.pdb
+C:\Projects\WebApi\SharedServices\obj\Debug\net6.0\SharedServices.csproj.CopyComplete
